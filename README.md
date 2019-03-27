@@ -1,8 +1,8 @@
-#Pizdetz Online Forum
+# Pizdetz Online Forum
 
-##Development Setup
+## Development Setup
 
-###Client
+### Client
 
 ```sh
 cd client
